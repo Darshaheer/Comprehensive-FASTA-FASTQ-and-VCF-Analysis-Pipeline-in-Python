@@ -1,0 +1,2 @@
+# Comprehensive-FASTA-FASTQ-and-VCF-Analysis-Pipeline-in-Python
+This Python pipeline analyzes genomic data from FASTA, FASTQ, and VCF files. It extracts sequences, headers, GC content, motifs, Phred scores, nucleotide frequencies, palindromes, and variant details, categorizing SNPs, insertions, deletions, and multi-allelic variants. Results and summary statistics are saved in text and JSON formats.
